@@ -1,0 +1,1 @@
+"SELECT category as 'Categoría', AVG(price) as 'Precio promedio por categoría', COUNT(*) as 'Cantidad de productos'  FROM Productos  GROUP BY category"

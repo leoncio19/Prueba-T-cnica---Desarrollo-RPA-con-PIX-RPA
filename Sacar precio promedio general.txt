@@ -1,0 +1,1 @@
+"SELECT COUNT(*) as 'Total de productos', AVG(price) as 'Precio promedio general' FROM Productos"

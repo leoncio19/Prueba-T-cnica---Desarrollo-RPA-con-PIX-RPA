@@ -7,7 +7,6 @@ Este proyecto consiste en un robot de software (RPA) desarrollado sobre la plata
 Configuración de Credenciales:
 
 1. Asegúrese de tener configuradas las variables de entorno o el archivo de configuración con el client_id y client_secret de la API de Microsoft Graph para la conexión con OneDrive.
-2. 
 
 Preparación de Entorno:
 

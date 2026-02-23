@@ -29,9 +29,11 @@ Verificación:
 
 2. Se creo el reporte en REPORTES/Reporte_YYYY-MM-DD.xlsx.
 
-3. El formulario de google esta debidamente diligenciado y el archivo excel alojado en la unidad de google drive 
+3. Se sube correctamente a one drive el archivo .json y excel.  
 
-4. Al finalizar, se guardará una captura de pantalla del formulario enviado en la carpeta Evidencias
+4. El formulario de google esta debidamente diligenciado y el archivo excel alojado en la unidad de google drive 
+
+5. Al finalizar, se guardará una captura de pantalla del formulario enviado en la carpeta Evidencias
 
 ## Requisitos o dependencias
 Software:

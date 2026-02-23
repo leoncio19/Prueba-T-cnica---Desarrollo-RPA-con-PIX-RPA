@@ -10,7 +10,7 @@ Configuración de Credenciales:
 
 Preparación de Entorno:
 
-1. Verificar que la base de datos SQLite exista en la ruta: C:\*****\PIX ROBOTICS\BD\pix_bd.db.
+1. Verificar que la base de datos MYSQL exista en la ruta: C:\*****\PIX ROBOTICS\BD\pix_bd.db.
 
 2. Asegurarse de que las carpetas LOGS, REPORTES y Evidencias estén creadas.
 

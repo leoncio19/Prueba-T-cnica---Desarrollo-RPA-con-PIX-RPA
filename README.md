@@ -55,4 +55,4 @@ Librerías/Actividades:
 
 1. **Enlace del formulario usado:** https://docs.google.com/forms/d/e/1FAIpQLSeSAL06oNvTLrByB_4w7EB4QcaAjnC_HcrbzsoMW2TE7o1FeA/viewform
 
-2. **Video explicativo de la ejecución:** https://www.youtube.com/watch?v=M0GOECpz8Ag
+2. **Video explicativo de la ejecución:** https://www.youtube.com/watch?v=7Ma049OsC28
